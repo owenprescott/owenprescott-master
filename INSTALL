@@ -1,0 +1,9 @@
+Building owenprescott
+
+See doc/readme-qt.rst for instructions on building owenprescott-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of owenprescott.
+
+See doc/build-*.txt for instructions on building owenprescott,
+the intended-for-services, no-graphical-interface, reference
+implementation of owenprescott.
